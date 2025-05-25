@@ -1,7 +1,7 @@
 # Title of Project: [PROJECT_TITLE_HERE]
 
 ## Team Members:
-1. Ansh Aggarwal
+1. Ansh Agrawal
 2. Anany Raj Singh
 3. Adish Sharma
 
