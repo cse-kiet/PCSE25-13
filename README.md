@@ -1,9 +1,9 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# MedXTech: Developing a Patient Condition Prediction System
 
 ## Team Members:
-1. Ansh Agrawal
-2. Anany Raj Singh
-3. Adish Sharma
+1. Ansh Agrawal (2100290100031)
+2. Anany Raj Singh (2100290100027)
+3. Adish Sharma (2100290100011)
 
 ## Steps for Execution:
 ### Step 0: Data Collection & Preparation
