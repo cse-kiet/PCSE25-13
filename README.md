@@ -55,8 +55,8 @@
 
 ## Links
 ### Website link
-- [Frontend](https://ui-db.onrender.com/)
-- [Backend](https://flaskbackendgithubdb.onrender.com) only available for POST requests
+- [Frontend](https://ui-updated.onrender.com/)
+- [Backend](https://flaskbackendgithub-updated-correct.onrender.com) only available for POST requests
 ### Docker Image link
 - Here is the Docker container for the Flask backend: [Docker flaskbackend](https://hub.docker.com/r/someone101/flaskbackend)
 - Here is the Docker container for the Flask Frontend: [Docker uifrontend](https://hub.docker.com/r/someone101/uifrontend)
